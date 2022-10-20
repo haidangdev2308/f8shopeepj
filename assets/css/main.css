@@ -1017,7 +1017,7 @@
 }
 
 .home-product-item:hover {
-    transform: translateY(-1px);
+    transform: translateY(-2px);
     box-shadow: 0 1px 20px 0 rgb(0 0 0 / 5%);
 }
 
